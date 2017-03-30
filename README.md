@@ -11,7 +11,7 @@
 ## Install
 
 * D language environments
-* docker-machine
+* docker-machine( https://docs.docker.com/machine/ )
 
 ## QuickStart
 
